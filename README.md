@@ -59,25 +59,19 @@ Ticketing Hub is a modern web-based event management and booking platform design
 
 ## 👨‍💼 Admin Features
 
-Add, update, and delete events & venues
-
-Manage bookings and prevent double reservations
-
-Monitor registered users and booking history
-
-View reports and analytics
+- Add, update, and delete events & venues
+- Manage bookings and prevent double reservations
+- Monitor registered users and booking history
+- View reports and analytics
 
 ---
 
 ## 🔒 Security & Privacy
 
-Encrypted authentication & session management
-
-Secure payment handling
-
-Role-based access control
-
-Protected user data storage
+- Encrypted authentication & session management
+- Secure payment handling
+- Role-based access control
+- Protected user data storage
 
 ---
 
